@@ -1,2 +1,2 @@
-# GEC
-Sistema desenvolvido para gestionamento de empresas construtoras.
+# GEC - Sistema para gestionar empresas construtoras
+Sendo desenvolvido em Python
