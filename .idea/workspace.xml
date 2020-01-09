@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d089ace-4c2b-4d6d-8ee1-6b722a4e405d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/services/classes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/classes/cadastroCliente/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/classes/cadastroCliente/appCadastro_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/unit/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/unit/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/GEC/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/classes/cadastroCliente/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/mainApp/mainOptions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/classes/cadastroCliente/appCadastro_class.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/services/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/services/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/mainApp/mainOptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/mainApp/mainOptions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/dao_clientes/cadastroDao.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/dao_clientes/cadastroDao.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/dao_clientes/cadastro_cliente.txt" beforeDir="false" afterPath="$PROJECT_DIR$/database/dao_clientes/cadastro_cliente.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/classes/cadastroCliente/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/classes/cadastroCliente/appCadastro_class.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,30 +173,34 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1578595224286">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578595224286" />
     <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1578309330235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578309330235" />
-    <state width="1899" height="280" key="GridCell.Tab.0.bottom" timestamp="1578510495693">
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom" timestamp="1578596248944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578510495693" />
-    <state width="1899" height="280" key="GridCell.Tab.0.center" timestamp="1578510495693">
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578596248944" />
+    <state width="1899" height="276" key="GridCell.Tab.0.center" timestamp="1578596248944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578510495693" />
-    <state width="1899" height="280" key="GridCell.Tab.0.left" timestamp="1578510495693">
+    <state width="1899" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578596248944" />
+    <state width="1899" height="276" key="GridCell.Tab.0.left" timestamp="1578596248944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578510495693" />
-    <state width="1899" height="280" key="GridCell.Tab.0.right" timestamp="1578510495693">
+    <state width="1899" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578596248944" />
+    <state width="1899" height="276" key="GridCell.Tab.0.right" timestamp="1578596248944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578510495693" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1578506640074">
+    <state width="1899" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578596248944" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1578596278961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578506640074" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578596278961" />
     <state x="701" y="164" key="refactoring.ChangeSignatureDialog" timestamp="1578079042693">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

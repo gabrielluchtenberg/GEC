@@ -1,2 +1,20 @@
-Nome: Ana;Idade: 18;CPF: 000.000.000-00
-Nome: Gabriel;Idade: 17;CPF: 000.000.000-00
+Giovanne;16;100.000.000-00;
+Gabriel Luchtenberg;15;200.000.000-00;
+Jonas Antunes;19;300.000.000-00;
+Ana Shympler;18;400.000.000-00;
+Joel Oel;26;000.500.000-00;
+Caique Matos;26;600.000.000-00;
+Lucas Vinter;19;700.000.000-00;
+Elenice Paterno;26;800.000.000-00;
+Orly Luchtenberg;60;900.000.000-00;
+Joao Regis;29;100.100.000-00;
+Bahiano Pedro Kraus;34;110.200.000-00;
+Caique;19;120.300.000-00;
+Andrei;18;130.400.000-00;
+Victor Fisher;18;140.500.000-00;
+Leandro Lesner;26;150.600.000-00;
+Aizen;26;160.700.000-00;
+Dexter Folter;19;170.800.000-00;
+Leonardo Caplin;34;180.900.000-00;
+Bruna Caplin;20;190.900.000-00;
+Danzo Shimura;50;200.100.100-00;
